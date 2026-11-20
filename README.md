@@ -13,6 +13,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram-%D1%83%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-229ED9?style=flat-square)
 
 ### [Скачать для Windows](https://github.com/Teatimo/L2-Main-HP-Alert-Updates/releases/latest)
+[Приобрести подписку](https://funpay.com/users/11571233/)
 
 [Как пользоваться](INSTALL_RU.md) · [Что нового](CHANGELOG.md) · [Сообщить об ошибке](https://github.com/Teatimo/L2-Main-HP-Alert-Updates/issues/new?template=bug_report.yml)
 
